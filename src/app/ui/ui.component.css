@@ -38,4 +38,10 @@
     color:rgb(8, 35, 35)
 
 }
+.division-button {
+    cursor: pointer;
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: 1000;
+}
 
